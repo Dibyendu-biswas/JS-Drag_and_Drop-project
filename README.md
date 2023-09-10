@@ -1,5 +1,5 @@
 <h1>Project -JS-Drag and Drop-Project</h1>
-<img src="dragAndDrop.png"/>
+<img src="dragAndDrope.png"/>
 
 <h2>Project Details :</h2>
 <p>This is a library of multiple basic projects based on HTML, CSS & Vanilla Javascript. No framework is used while developing this projects.</p>
