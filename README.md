@@ -6,7 +6,7 @@
 
 <li>Project Live Link : All the live link available in the Respecttive Repo</li>
 <h2>Completed Projects -</h2>
-<p>Color Flipper</p>
+<p>Drag and Drope</p>
 <h2>Technology Used -</h2>
 <p>
 <ul>
